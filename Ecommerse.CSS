@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-logo-img {
+    height: 50px;
+    width: 150px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.for-full-page {
+    height: 100vh;
+    background-size: cover;
+    overflow: auto;
+}
+
+.services-white-background {
+    background-color: white;
+}
+
+.services-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.service-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #616c7c;
+}
+
+.service-card {
+    background-color: white;
+}
+
+.service-image {
+    height: 80px;
+    width: 80px;
+}
+
+.service-card-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #1f2933;
+}
+
+.service-card-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #7b8794;
+}
+
+.ecommerse-products-bg {
+    background-color: white;
+}
+
+.products-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.product-card {
+    border-radius: 15px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    padding: 16px;
+    padding-top: 30px;
+}
+
+.product-card-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.product-card-para {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+}
+
+.ecommerse-product-card-button {
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 20px;
+    background-color: white;
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 16px;
+    border-color: #ff9f00;
+}
+
+.product-model-para {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #323f4b;
+}
+
+.product-model-side-heading {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.product-laptop-card {
+    border-radius: 15px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    padding: 16px;
+    padding-top: 30px;
+}
+
+.see-all-offers-orange {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.model-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #183b56;
+}
+
+.ecommerese-offers-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    height: ;
+}
+
+.offers-image {
+    height: 300px;
+    width: 380px;
+    margin-top: 30px;
+}
+
+.fridge-image {
+    height: 240px;
+    width: 360px;
+}
+
+.offers-title {
+    font-family: "Bree serif";
+    font-size: 30px;
+    color: #ad2167;
+    margin-top: 16px;
+}
+
+.offers-para {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+}
+
+.sbi-image {
+    height: 100px;
+    width: 300px;
+    margin-bottom: 32px;
+}
+
+.offers-image-md {
+    height: 90px;
+    width: 120px;
+}
+
+.discount-span {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.trending-bg {
+    background-color: white;
+}
+
+.trending-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.trending-card-image {
+    height: 30vh;
+}
+
+.trending-card {
+    border-radius: 15px;
+    background-color: white;
+}
+
+.trending-small-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #959ead;
+}
+
+.trending-big-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.trending-card-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #959ead;
+}
+
+.anchor-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #ff9f00;
+}
+
+.explore-bg {
+    background-color: #f5f7fa;
+}
+
+.explore-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.explore-card-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+
+.explore-card {
+    border-radius: 15px;
+    background-color: white;
+}
+
+.explore-small-heading {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #1f2933;
+    margin-top: 10px;
+}
+
+.explore-big-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.explore-card-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #959ead;
+}
+
+.explore-anchor-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.explore-tv-image {
+    border-radius: 15px;
+}
+
+.ecommerse-contactus-bg {
+    background-color: #f5f7fa;
+}
+
+.contactus-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.flybuy-footer-bg {
+    background-color: #0d2436;
+}
+
+.flybuy-logo {
+    height: 50px;
+    width: 140px;
+}
+
+.social-bg {
+    height: 40px;
+    width: 40px;
+    background-color: #152c3e;
+    color: #5a7184;
+    border-radius: 17px;
+    padding-left: 12px;
+    padding-top: 12px;
+    margin-right: 8px;
+    padding-right: 10px;
+}
+
+.flybuy-para-address {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #5a7184;
+}
+
+.contact-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.envilop {
+    color: #5a7184;
+}
+
+.created-by {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #959ead;
+}
